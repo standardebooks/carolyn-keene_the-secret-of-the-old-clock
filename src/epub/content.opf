@@ -47,7 +47,7 @@
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Secret_of_the_Old_Clock</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/carolyn-keene_the-secret-of-the-old-clock</meta>
 		<meta id="collection-1" property="belongs-to-collection">Nancy Drew Mystery Stories</meta>
-		<meta propery="collection-type" refines="#collection-1">series</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:creator id="author">Carolyn Keene</dc:creator>
 		<meta property="file-as" refines="#author">Keene, Carolyn</meta>
