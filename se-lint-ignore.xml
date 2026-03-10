@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-24.xhtml">
 		<ignore code="t-003">
+			<line>61</line>
 			<reason>Quoted material spans multiple paragraphs</reason>
 		</ignore>
 	</file>
