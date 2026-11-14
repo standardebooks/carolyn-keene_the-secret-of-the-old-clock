@@ -57,7 +57,7 @@
 		<link href="https://en.wikipedia.org/wiki/Carolyn_Keene" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79084050.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Russel H. Tandy</dc:contributor>
+		<dc:contributor id="artist">Russell H. Tandy</dc:contributor>
 		<meta property="file-as" refines="#artist">Tandy, Russell H.</meta>
 		<link href="https://en.wikipedia.org/wiki/Russell_H._Tandy" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n91127943.html" refines="#artist" rel="schema:sameAs"/>
